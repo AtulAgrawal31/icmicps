@@ -1,0 +1,146 @@
+body{
+    /* background-color: #759ad95c; */
+    background-color: #b7daf7dc;
+    box-sizing: border-box;
+}
+*{
+    box-sizing: border-box;
+}
+.header{
+    color: white;
+    font-family: 'Century';
+    font-weight: 800;
+    background-color: #3268dc;
+    background-color: #3268dc;
+    background-color: #3d83eb;
+
+}
+@media screen and (max-width: 767.20px) {
+    div.logo{
+    margin-left:70px;
+    }
+    div.title{
+    text-align:center;
+    margin-top:-20px;   
+    }
+}
+.navbar{
+    background-color: #3d83eb;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+nav ul li a:hover{
+    background-color: rgba(15, 76, 129, 0.541);
+    color: rgb(11, 10, 10);
+}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+}
+.gmorph{
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    border-radius: 12px;
+    text-shadow: 0 0 10px #3268dc;
+}
+.sidebar .heading{
+    color: white;
+    
+    background: #3268dc url(../images/boxtitle.png) no-repeat left center;
+}
+.sidebar ul li{
+    padding: 2%;
+    font-size: 16px;
+    /* color:#20d4c8; */
+}
+.sidebar ul li a{
+    color:black;
+    text-decoration: none;
+}
+.sidebar ul li a:hover{
+   
+    color:#f0f0f0;
+    background-color: #32558b;
+
+}
+.sidebar .content p{
+    font-size: 15px;
+}
+.sidebar .content img{
+    border: 10px solid #DFDDE2;
+}
+.sidebar .content i{
+    color: #40d0c6;
+    color: #3268dc;
+    background-color: #3d83eb;
+    font-size: 20px;
+}
+.footer{
+    background-color:rgb(0, 0, 0);
+}
+.style4{
+    color: white;
+}
+.style5{
+    color: white;
+}
+.style6 ul li{
+    color: white;
+}
+.style6 ul li a{
+    text-decoration: none;
+    color: white;
+}
+.style6 ul li a:hover{
+    color:#3268dc;
+}
+#copyright{
+    color: #3d83eb;
+}
+#logo{
+    background-color: #b9d2ff;
+    padding: 0px;
+    /* border-radius: 49%; */
+    /* border: 4px solid #0d1b55; */
+}
+.heading{
+    color:#0c38af;
+}
+.justify-content-center{
+    width: 100%;
+}
+.row{
+    width: 100%;
+}
+.content{
+    display: block;
+}
+.btn{
+    background-color: #0d1b55;
+    border: 2px solid rgb(37, 41, 52);
+    color: white;
+    font-size:larger;
+}
+.btn:hover{
+    background-color: #0c38af;
+    color: #eaecb7;
+}
+.heading{
+    color:#0c38af;
+}
+.topic{
+    display: flex;
+    height: 469px;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+@media screen and (max-width: 999.20px) {
+   .topic{
+    display: block;
+    height: 100%;
+   }
+}
