@@ -63,24 +63,26 @@
 								<div class="col-md-4 p-3 text-center">
 									<img src="images/uptointernational/Anil-Bansal Sir SDBC.jpg" width="137" height="140"/>
 									<h6 class="m-0 p-2" style="background:#D8D8D8; color:#000099; font-weight: bold;">Er. Anil Bansal</h6>
-									<h6 class="m-0 p-2" style="background:#FFFFCC">Chairman <br>BGI</h6>
+									<h6 class="m-0 p-2" style="background:#FFFFCC">Chairman <br>BGI Bhopal IN</h6>
 								</div>   
 								<div class="col-md-4 p-3 text-center">
 									<img src="images/uptointernational/sunil-Bansal sir SDBC.jpg" width="137" height="140"/>
 									<h6 class="m-0 p-2" style="background:#D8D8D8; color:#000099; font-weight: bold;">Er. Sunil Bansal</h6>
-									<h6 class="m-0 p-2" style="background:#FFFFCC">Secretary <br>BGI</h6>
+									<h6 class="m-0 p-2" style="background:#FFFFCC">Secretary <br>BGI Bhopal IN</h6>
 								</div>
-								<div class="col-md-4 p-3 text-center">
+							</div>
+							<div class="row justify-content-center">
+							<div class="col-md-4 p-3 text-center">
 									<img src="images/uptointernational/Sunil Kumar sir RGPV.jfif" width="137" height="140"/>
 									<h6 class="m-0 p-2" style="background:#D8D8D8; color:#000099; font-weight: bold;">Prof. Sunil Kumar</h6>
-									<h6 class="m-0 p-2" style="background:#FFFFCC">Vice Chancellor <br>RGPV Bhopal</h6>
+									<h6 class="m-0 p-2" style="background:#FFFFCC">Vice Chancellor <br>RGPV Bhopal IN</h6>
 								</div>
 								<div class="col-md-4 p-3 text-center">
 									<img src="images/uptointernational/Prof Buta Singh Sidhu.jpg" alt="image" width="137" height="140"/>
 									<h6 class="m-0 p-2" style="background:#D8D8D8; color:#000099; font-weight: bold;">Prof. Buta Singh Sidhu</h6>
-									<h6 class="m-0 p-2" style="background:#FFFFCC">Vice Chancellor <br>PTU, Bathinda</h6>
+									<h6 class="m-0 p-2" style="background:#FFFFCC">Vice Chancellor <br>PTU, Bathinda IN</h6>
 								</div>
-							</div>         
+							</div>      
 							<h6>&nbsp;</h6>
 							<div class="heading">
 								<h4 class="text-center" style="background:#233d77; color:#FFFFFF;">Patrons</h4><br>
